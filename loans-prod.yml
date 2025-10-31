@@ -2,7 +2,7 @@ build:
     version: "1.0"
 
 loans:
-  message: "Message to EazyBank loans related Production APIs"
+  message: "Message to EazyBank loans related prod APIs"
   contactDetails:
     name: "Linda Green - Product Owner"
     email: "linda@eazybank.com"
